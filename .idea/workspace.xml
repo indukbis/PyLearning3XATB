@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7202cf57-6d54-4811-9de2-bc955a1e3e59" name="Changes" comment="Adding Lab002">
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab009.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,21 +29,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "indukbis"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;indukbis&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/indukbis/PyLearning3XATB.git",
-    "accountId": "c5afa07f-063f-4532-862e-7e4f92b61183"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/indukbis/PyLearning3XATB.git&quot;,
+    &quot;accountId&quot;: &quot;c5afa07f-063f-4532-862e-7e4f92b61183&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2hR6nRhmMtw39RuVr34weauVmrJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,8 +55,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab009.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -84,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717546938405</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding Lab002">
+      <option name="closed" value="true" />
+      <created>1718635623224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718635623224</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
