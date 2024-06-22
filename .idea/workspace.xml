@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7202cf57-6d54-4811-9de2-bc955a1e3e59" name="Changes" comment="Adding Lab002">
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_17062024/Lab009.py" afterDir="false" />
+    <list default="true" id="7202cf57-6d54-4811-9de2-bc955a1e3e59" name="Changes" comment="Python basic">
+      <change afterPath="$PROJECT_DIR$/Ex_20062024/Lab0010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_20062024/Lab0011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_20062024/Lab0012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_20062024/Lab0013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_20062024/Lab0014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_20062024/Lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_20062024/Lab016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_20062024/Lab017.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +42,11 @@
     &quot;accountId&quot;: &quot;c5afa07f-063f-4532-862e-7e4f92b61183&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -55,6 +61,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Lab001.executor": "Run",
+    "Python.Lab0010.executor": "Run",
+    "Python.Lab0011.executor": "Run",
+    "Python.Lab0012.executor": "Run",
+    "Python.Lab0013.executor": "Run",
+    "Python.Lab0014.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
@@ -62,6 +73,9 @@
     "Python.Lab006.executor": "Run",
     "Python.Lab007.executor": "Run",
     "Python.Lab009.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -108,12 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1718635623224</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Python basic">
+      <option name="closed" value="true" />
+      <created>1718639357535</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718639357535</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding all the files" />
     <MESSAGE value="Adding Lab002" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Lab002" />
+    <MESSAGE value="Python basic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python basic" />
   </component>
 </project>
