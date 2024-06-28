@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7202cf57-6d54-4811-9de2-bc955a1e3e59" name="Changes" comment="Python Datatype">
-      <change afterPath="$PROJECT_DIR$/Ex_23062024/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_23062024/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_23062024/Lab020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_23062024/Lab021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_23062024/Lab022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_23062024/Lab023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_23062024/Lab024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_23062024/Lab025.py" afterDir="false" />
+    <list default="true" id="7202cf57-6d54-4811-9de2-bc955a1e3e59" name="Changes" comment="Python Literals">
+      <change afterPath="$PROJECT_DIR$/Ex_25062024_Task/Task001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27062024/Lab0114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27062024/Lab0115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27062024/Lab0116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27062024/Lab0117.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27062024/Lab0118.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_27062024/Lab0119.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +72,12 @@
     "Python.Lab006.executor": "Run",
     "Python.Lab007.executor": "Run",
     "Python.Lab009.executor": "Run",
+    "Python.Lab0114.executor": "Run",
+    "Python.Lab0115.executor": "Run",
+    "Python.Lab0116.executor": "Run",
+    "Python.Lab0117.executor": "Run",
+    "Python.Lab0118.executor": "Run",
+    "Python.Lab0119.executor": "Run",
     "Python.Lab015.executor": "Run",
     "Python.Lab016.executor": "Run",
     "Python.Lab017.executor": "Run",
@@ -146,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719066016189</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Python Literals">
+      <option name="closed" value="true" />
+      <created>1719294889166</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719294889166</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +167,7 @@
     <MESSAGE value="Adding Lab002" />
     <MESSAGE value="Python basic" />
     <MESSAGE value="Python Datatype" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python Datatype" />
+    <MESSAGE value="Python Literals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Literals" />
   </component>
 </project>
